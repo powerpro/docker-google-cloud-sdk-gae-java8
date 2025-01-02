@@ -1,4 +1,4 @@
-This project was archived on January 2, 2024 and is no longer needed.
+This project was archived on January 2, 2025 and is no longer needed.
 
 This container is handy for a continuous integration build environment such as CircleCI.
 
